@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caro-turnbull
-- 👀 I’m interested in learning more about javscript, maybe making a game.
-- 🌱 I’m currently learning to be a full-stack developer at Lighthouse Labs.
+- 👀 I’m interested in learning more about javascript, maybe making a Rock Paper Scissors game.
+- 🌱 I just finished a full-stack developer immersive bootcamp at Lighthouse Labs.
 - 📫 How to reach me caro.turnbull at gmail.com
 
 <!---
